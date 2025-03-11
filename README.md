@@ -1,0 +1,1 @@
+https://ci.appveyor.com/api/projects/status/vnr0a2o0wk18n64x?svg=true  [![Статус сборки](https://ci.appveyor.com/api/projects/status/vnr0a2o0wk18n64x?svg=true)](https://ci.appveyor.com/project/FilSado/health-indicator)
